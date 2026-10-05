@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://florian.webart.work/sitemap.xml
+Sitemap: https://florian.hotelup.work/sitemap.xml
